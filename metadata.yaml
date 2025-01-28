@@ -1,6 +1,9 @@
 _repo: An-epitome-of-electricity-galvanism_74933
 _version: 0.1.0
 alternative_title: An epitome of electricity and galvanism
+covers:
+- cover_type: archival
+  image_path: 74933-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Green, Jacob
@@ -16,6 +19,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Erskine_Hazard
 description: Published anonymously as "by two gentlemen of Philadelphia." By Jacob
   Green and Erskine Hazard, according to E. F. Smith.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74933#An-epitome-of-electricity-galvanism
 gutenberg_issued: '2024-12-19'
 gutenberg_type: Text
 identifiers:
